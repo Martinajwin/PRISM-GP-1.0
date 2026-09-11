@@ -15,7 +15,7 @@ PRISM-GP 1.0 is a Streamlit web application implementing a rigorous, parallel ma
 ### Access the Web Tool
 You can access and use the PRISM-GP 1.0 virtual screening pipeline directly through your web browser without any installation:
 
-🔗 **[Launch PRISM-GP 1.0 Web Tool Here](https://prism-gp-1-dual-screening.streamlit.app/)** *(Note: Update this URL to match your actual deployed Streamlit link)*
+🔗 **[Launch PRISM-GP 1.0 Web Tool Here](https://prism-gp-1-dual-screening.streamlit.app/)**
 
 ---
 
