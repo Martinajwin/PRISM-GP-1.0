@@ -1,4 +1,4 @@
-# Pareto-Resolved Interpretable Screening Model for GSK-3β and PIM-1 (PRISM-GP 1.0)
+# Pareto Resolved Interpretable Screening Model for GSK-3β and PIM-1 (PRISM-GP 1.0)
 
 ### Overview
 PRISM-GP 1.0 is a Streamlit web application implementing a rigorous, parallel machine learning pipeline to concurrently screen and predict dual-target inhibitors for GSK-3β and PIM-1 kinases. Operating as a transparent "glass-box" framework, it employs strictly 2D topological Mordred molecular descriptors alongside multi-objective Explainable Boosting Machines (EBMs). The pipeline utilizes an imbalance-corrected Log-Odds decision function and has been extensively validated against extreme decoy datasets (including a <0.5% False Discovery Rate for PAINS) to ensure robust identification of selective and dual-acting compounds without generating false positives.
