@@ -812,6 +812,7 @@ with col_main:
         st.markdown("""
 <div style="background: rgba(0, 229, 255, 0.05); padding: 1.5rem; border-left: 4px solid #00E5FF; border-radius: 8px; margin-bottom: 1.5rem;">
     <p style="margin:0; color:#FFFFFF;"><b>PRISM-GP 1.0 Webtool</b> | D. Kumar, A. J. Martin | Manipal Academy of Higher Education (MAHE) | Version 1.0 (2026).</p>
+    <p style="margin:0; color:#94A3B8; margin-top: 0.5rem;"><b>Webtool URL:</b> <i>https://prism-gp-1-dual-screening.streamlit.app/</i></p>
 </div>
         """, unsafe_allow_html=True)
 
