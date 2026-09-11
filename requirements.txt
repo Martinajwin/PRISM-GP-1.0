@@ -1,0 +1,12 @@
+streamlit
+pandas==2.2.3
+numpy==1.26.4
+rdkit
+mordredcommunity
+scikit-learn==1.4.2
+scipy
+joblib
+graphviz
+plotly
+matplotlib==3.8.4
+interpret

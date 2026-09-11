@@ -1,0 +1,69 @@
+{
+    "features": {
+        "gsk3b": [
+            "NdsN",
+            "SRW05",
+            "NdssC",
+            "NssNH",
+            "NaaNH",
+            "n5Ring",
+            "NsssN",
+            "n5ARing",
+            "nN",
+            "SlogP_VSA8",
+            "nG12FRing",
+            "nHRing",
+            "nHBDon",
+            "n6aHRing",
+            "nBondsD",
+            "SdssC",
+            "naHRing",
+            "nARing",
+            "PEOE_VSA2",
+            "SMR_VSA3",
+            "nAHRing",
+            "SMR_VSA4",
+            "NaaN",
+            "C4SP3",
+            "EState_VSA8"
+        ],
+        "pim1": [
+            "naHRing",
+            "nHRing",
+            "SlogP_VSA8",
+            "nBondsD",
+            "NaaN",
+            "nBase",
+            "n6aHRing",
+            "SlogP_VSA3",
+            "nO",
+            "ATSC3dv",
+            "ATSC2i",
+            "SMR_VSA9",
+            "NdssC",
+            "nN",
+            "GATS3d",
+            "n9FRing",
+            "SMR_VSA4",
+            "n6HRing",
+            "GATS3dv",
+            "NsNH2",
+            "n5aRing",
+            "SMR_VSA3",
+            "NssNH",
+            "PEOE_VSA12",
+            "NaaaC"
+        ]
+    },
+    "applicability_domain": {
+        "d_squared_cutoff": 5.991,
+        "gsk3b": {
+            "std_pc1": 2.439991469066885,
+            "std_pc2": 2.1510324415180255
+        },
+        "pim1": {
+            "std_pc1": 2.709163906604793,
+            "std_pc2": 1.4728350056313244
+        }
+    }
+}
